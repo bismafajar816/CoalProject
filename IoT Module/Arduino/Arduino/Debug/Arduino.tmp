@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\UART_Macros.inc</FILE>
+  <FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\delay.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\Debug\Arduino.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Arduino.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Arduino.map</FILE>
+  <FILE>Arduino.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>48</LINE></MAIN>
+  <MID><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>51</LINE></MID>
+  <YELLOW_LED><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>74</LINE></YELLOW_LED>
+  <MAGENTA_LED><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>80</LINE></MAGENTA_LED>
+  <WHITE_LED><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>86</LINE></WHITE_LED>
+  <LOOP_LEDS><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>92</LINE></LOOP_LEDS>
+  <LEDS_OFF><FILE>D:\Github\Coal Final Project\IoT Module\Arduino\Arduino\main.asm</FILE><LINE>68</LINE></LEDS_OFF>
+ </LABELS>
+</ASSEMBLER_INFO>
